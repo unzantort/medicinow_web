@@ -64,7 +64,7 @@ final List<Shop> shops = [
       ),
       Item(
         id: '202',
-        name: 'Cold Medicine',
+        name: 'Tylenol',
         description: 'Relieves cold symptoms',
         imageUrl: 'assets/images/item7.png',
         price: 8.00,
@@ -78,14 +78,14 @@ final List<Shop> shops = [
       ),
       Item(
         id: '204',
-        name: 'First Aid Cream',
+        name: 'Bepanthen',
         description: 'For minor cuts and wounds',
         imageUrl: 'assets/images/item9.png',
         price: 5.50,
       ),
       Item(
         id: '205',
-        name: 'Nasal Spray',
+        name: 'Clariclear',
         description: 'Clears nasal congestion',
         imageUrl: 'assets/images/item10.png',
         price: 9.00,
@@ -102,7 +102,7 @@ final List<Shop> shops = [
     items: [
       Item(
         id: '301',
-        name: 'Pain Relief Patch',
+        name: 'Salonpas',
         description: 'Targets muscle pain',
         imageUrl: 'assets/images/item11.png',
         price: 6.50,

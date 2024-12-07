@@ -30,7 +30,7 @@ class DeliveryScreen extends StatelessWidget {
                   selectedIndex: 0,
                   onItemSelected: (index) {
                     Navigator.of(context).pushNamedAndRemoveUntil(
-                      '/homepage', // Navigate to homepage
+                      '/homepage', 
                       (route) => false,
                     );
                   },
